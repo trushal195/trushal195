@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trushal195
+- 👋 Hi, I’m @trushal19
 - 👀 I’m interested in RTL Design, ASIC verification
 
 <!---
